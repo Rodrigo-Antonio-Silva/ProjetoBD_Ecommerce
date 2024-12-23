@@ -18,7 +18,7 @@ O modelo foi projetado seguindo as melhores práticas de modelagem de banco de d
 
 A imagem abaixo ilustra o modelo conceitual do banco de dados:
 
-![Modelo Conceitual de E-commerce](caminho/para/sua/imagem.png)
+![Modelo Conceitual de E-commerce](https://github.com/Rodrigo-Antonio-Silva/ProjetoBD_Ecommerce/blob/d04580b47112a0e787d048b7f69992cd116b8b37/E_Commerce.png)
 
 ## Descrição Geral das Entidades
 
